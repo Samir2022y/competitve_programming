@@ -12,7 +12,7 @@ string toLowerString(const string& str) {
     return lowerStr; 
 }
 
-// Author: Guenchi Samir
+// Author  : Guenchi Samir
 // Date: 2024-10-25
 // Solution of Petya and string 
 int main() {
