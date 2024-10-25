@@ -1,3 +1,5 @@
 1_ to_string
 2_ ceil (up)
 3_ floor (down)
+4_ to_lower() just one character
+5_ toLowerString(...) put just word inside .
